@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# User Dashboard Pro
 
-You can use the [editor on GitHub](https://github.com/MarmisDev/User-Dashboard-Pro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+User panel with admin panel
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### User panel
+- Simple Login & Register
+- Detect IP
+- User active time
+- Trade coin with other user
+- Redeem coin
+- IAP status
 
-```markdown
-Syntax highlighted code block
+### Admin panel
+- Create redeem code
+- Send coin to user
+- Redeem code
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Project Info
+```
+### Front end : Construct 2
+### Back end  : PHP & MySQL
+### API       : ipify
+### Rest API  : No
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Status    : Work In Progress
+### Version   : Beta
+### Number    : 1
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Demo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarmisDev/User-Dashboard-Pro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[User panel](https://marmisdev.github.io/User-Dashboard-Pro/User%20Panel/) 
+[Admin panel](https://marmisdev.github.io/User-Dashboard-Pro/Admin%20Panel/) 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+
+[contact support Mail](mailto:marmisdev@gmail.com) 
+[contact support WA](089637188871) 
+
+
+
